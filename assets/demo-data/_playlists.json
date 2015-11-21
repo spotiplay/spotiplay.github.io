@@ -1,0 +1,516 @@
+{
+  "href": "https://api.spotify.com/v1/users/dankeybiz/playlists?offset=0&limit=20",
+  "items": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "http://open.spotify.com/user/dankeybiz/playlist/71qeAnoCOoDGSXOZdgVRRB"
+      },
+      "href": "https://api.spotify.com/v1/users/dankeybiz/playlists/71qeAnoCOoDGSXOZdgVRRB",
+      "id": "scary",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/607d265a04118c1f1cf94de774bd46efede6da67",
+          "width": 640
+        }
+      ],
+      "name": "Starred",
+      "owner": {
+        "external_urls": {
+          "spotify": "http://open.spotify.com/user/dankeybiz"
+        },
+        "href": "https://api.spotify.com/v1/users/dankeybiz",
+        "id": "dankeybiz",
+        "type": "user",
+        "uri": "spotify:user:dankeybiz"
+      },
+      "public": false,
+      "snapshot_id": "xci9qYzMB4SIqGm4mxp9hg791hqceDqTNs3kyBIvOIXydeUEJU+1aXcMav4EYqr1",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/dankeybiz/playlists/71qeAnoCOoDGSXOZdgVRRB/tracks",
+        "total": 1
+      },
+      "type": "playlist",
+      "uri": "spotify:user:dankeybiz:playlist:71qeAnoCOoDGSXOZdgVRRB"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "http://open.spotify.com/user/spotifydiscover/playlist/72RP5kYXDBdux1ZP3WZRkn"
+      },
+      "href": "https://api.spotify.com/v1/users/spotifydiscover/playlists/72RP5kYXDBdux1ZP3WZRkn",
+      "id": "72RP5kYXDBdux1ZP3WZRkn",
+      "images": [
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/d4957f2e34bde422c89d6e0cbdcff9dc591e5ee9",
+          "width": 300
+        }
+      ],
+      "name": "Huiover Weekly",
+      "owner": {
+        "external_urls": {
+          "spotify": "http://open.spotify.com/user/spotifydiscover"
+        },
+        "href": "https://api.spotify.com/v1/users/spotifydiscover",
+        "id": "spotifydiscover",
+        "type": "user",
+        "uri": "spotify:user:spotifydiscover"
+      },
+      "public": false,
+      "snapshot_id": "rpv50ju9YisvUmpf7jELnM6KjgHHGmqFWU5rL35uH6TbdgSsz2fJaEZZigOcQUOf",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/spotifydiscover/playlists/72RP5kYXDBdux1ZP3WZRkn/tracks",
+        "total": 30
+      },
+      "type": "playlist",
+      "uri": "spotify:user:spotifydiscover:playlist:72RP5kYXDBdux1ZP3WZRkn"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "http://open.spotify.com/user/dankeybiz/playlist/13DrwawoxXAOtHBd68XPWS"
+      },
+      "href": "https://api.spotify.com/v1/users/dankeybiz/playlists/13DrwawoxXAOtHBd68XPWS",
+      "id": "13DrwawoxXAOtHBd68XPWS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/f47c68be46f9be8718e0a606ddc7bc170388d652ec2ab4aefbed2e1faba65b37c52a1fdd3adde6ddb3026fad6e6a7b245170ef521faf65e4c0778f61437609d03b2cd2002df8d6d9ac57e2797e750adb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/f47c68be46f9be8718e0a606ddc7bc170388d652ec2ab4aefbed2e1faba65b37c52a1fdd3adde6ddb3026fad6e6a7b245170ef521faf65e4c0778f61437609d03b2cd2002df8d6d9ac57e2797e750adb",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/f47c68be46f9be8718e0a606ddc7bc170388d652ec2ab4aefbed2e1faba65b37c52a1fdd3adde6ddb3026fad6e6a7b245170ef521faf65e4c0778f61437609d03b2cd2002df8d6d9ac57e2797e750adb",
+          "width": 60
+        }
+      ],
+      "name": "Spotiplay queue",
+      "owner": {
+        "external_urls": {
+          "spotify": "http://open.spotify.com/user/dankeybiz"
+        },
+        "href": "https://api.spotify.com/v1/users/dankeybiz",
+        "id": "dankeybiz",
+        "type": "user",
+        "uri": "spotify:user:dankeybiz"
+      },
+      "public": true,
+      "snapshot_id": "lyo9qrZQXNAk+dlPaFlg2Eh1PPZmrHcobsvSYz8x1PUvCFvuBPpzlkOLaYaRPj8v",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/dankeybiz/playlists/13DrwawoxXAOtHBd68XPWS/tracks",
+        "total": 30
+      },
+      "type": "playlist",
+      "uri": "spotify:user:dankeybiz:playlist:13DrwawoxXAOtHBd68XPWS"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "http://open.spotify.com/user/dankeybiz/playlist/276MHEjmhfdnIIrZSvCDPF"
+      },
+      "href": "https://api.spotify.com/v1/users/dankeybiz/playlists/276MHEjmhfdnIIrZSvCDPF",
+      "id": "276MHEjmhfdnIIrZSvCDPF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/d4e1be09af57961ff630662daa5e44e75a99f18b141863b37fcb845c849e23ed5c3481c23b47533d75d98dad7bfe75795b936a6bfc4b394270a3a46d3a049b7edb4769871c5c04def7c6fcbc52cac3f2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/d4e1be09af57961ff630662daa5e44e75a99f18b141863b37fcb845c849e23ed5c3481c23b47533d75d98dad7bfe75795b936a6bfc4b394270a3a46d3a049b7edb4769871c5c04def7c6fcbc52cac3f2",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/d4e1be09af57961ff630662daa5e44e75a99f18b141863b37fcb845c849e23ed5c3481c23b47533d75d98dad7bfe75795b936a6bfc4b394270a3a46d3a049b7edb4769871c5c04def7c6fcbc52cac3f2",
+          "width": 60
+        }
+      ],
+      "name": "фывф",
+      "owner": {
+        "external_urls": {
+          "spotify": "http://open.spotify.com/user/dankeybiz"
+        },
+        "href": "https://api.spotify.com/v1/users/dankeybiz",
+        "id": "dankeybiz",
+        "type": "user",
+        "uri": "spotify:user:dankeybiz"
+      },
+      "public": true,
+      "snapshot_id": "bOTuQlWQgBtSb8c4xbuFPBn8ILIY2Asbfq7ASKvRijmZazks87lqHI9T8PYUK/Yd",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/dankeybiz/playlists/276MHEjmhfdnIIrZSvCDPF/tracks",
+        "total": 9
+      },
+      "type": "playlist",
+      "uri": "spotify:user:dankeybiz:playlist:276MHEjmhfdnIIrZSvCDPF"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "http://open.spotify.com/user/dankeybiz/playlist/6eHYV4vU9YDWL0HFJKXkTV"
+      },
+      "href": "https://api.spotify.com/v1/users/dankeybiz/playlists/6eHYV4vU9YDWL0HFJKXkTV",
+      "id": "6eHYV4vU9YDWL0HFJKXkTV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/141863b37fcb845c849e23ed5c3481c23b47533d",
+          "width": 640
+        }
+      ],
+      "name": "йййй",
+      "owner": {
+        "external_urls": {
+          "spotify": "http://open.spotify.com/user/dankeybiz"
+        },
+        "href": "https://api.spotify.com/v1/users/dankeybiz",
+        "id": "dankeybiz",
+        "type": "user",
+        "uri": "spotify:user:dankeybiz"
+      },
+      "public": true,
+      "snapshot_id": "x9FjSoAU1UWfiXC9d3w+TO5J9g4+qKOtN3A5b7RLP3WtDM5lkxr1K0cBFaOQgeI/",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/dankeybiz/playlists/6eHYV4vU9YDWL0HFJKXkTV/tracks",
+        "total": 3
+      },
+      "type": "playlist",
+      "uri": "spotify:user:dankeybiz:playlist:6eHYV4vU9YDWL0HFJKXkTV"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "http://open.spotify.com/user/dankeybiz/playlist/5lXOmGVyzrKOzQMgB8hqmh"
+      },
+      "href": "https://api.spotify.com/v1/users/dankeybiz/playlists/5lXOmGVyzrKOzQMgB8hqmh",
+      "id": "5lXOmGVyzrKOzQMgB8hqmh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d4e1be09af57961ff630662daa5e44e75a99f18b",
+          "width": 640
+        }
+      ],
+      "name": "Noize2",
+      "owner": {
+        "external_urls": {
+          "spotify": "http://open.spotify.com/user/dankeybiz"
+        },
+        "href": "https://api.spotify.com/v1/users/dankeybiz",
+        "id": "dankeybiz",
+        "type": "user",
+        "uri": "spotify:user:dankeybiz"
+      },
+      "public": true,
+      "snapshot_id": "7RRODPlrC2J1Nzp+YPNEIVGqZd03NzHgU5gUmQzNzd1dQv0Ab1R60GExKY8VEF+Q",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/dankeybiz/playlists/5lXOmGVyzrKOzQMgB8hqmh/tracks",
+        "total": 3
+      },
+      "type": "playlist",
+      "uri": "spotify:user:dankeybiz:playlist:5lXOmGVyzrKOzQMgB8hqmh"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "http://open.spotify.com/user/dankeybiz/playlist/5OxG8nq6mK4FfmK62g68qj"
+      },
+      "href": "https://api.spotify.com/v1/users/dankeybiz/playlists/5OxG8nq6mK4FfmK62g68qj",
+      "id": "5OxG8nq6mK4FfmK62g68qj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/bdd672c5c0c9608ca085c19eacfee148ecef098e",
+          "width": 640
+        }
+      ],
+      "name": "Yes1!",
+      "owner": {
+        "external_urls": {
+          "spotify": "http://open.spotify.com/user/dankeybiz"
+        },
+        "href": "https://api.spotify.com/v1/users/dankeybiz",
+        "id": "dankeybiz",
+        "type": "user",
+        "uri": "spotify:user:dankeybiz"
+      },
+      "public": true,
+      "snapshot_id": "Y3QLfV5qE6xXox2KLos06y/zSInlE6JxmAbVdPR4rkWBiIy3aSt6xOY8ISMCmPNF",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/dankeybiz/playlists/5OxG8nq6mK4FfmK62g68qj/tracks",
+        "total": 6
+      },
+      "type": "playlist",
+      "uri": "spotify:user:dankeybiz:playlist:5OxG8nq6mK4FfmK62g68qj"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "http://open.spotify.com/user/spotify_germany/playlist/5ITrhZ4YWfM5WQ0okrQE3w"
+      },
+      "href": "https://api.spotify.com/v1/users/spotify_germany/playlists/5ITrhZ4YWfM5WQ0okrQE3w",
+      "id": "5ITrhZ4YWfM5WQ0okrQE3w",
+      "images": [
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/f2f6ed3762ef00c89f109ffaafd7aa137ca77296",
+          "width": 300
+        }
+      ],
+      "name": "SWAG!",
+      "owner": {
+        "external_urls": {
+          "spotify": "http://open.spotify.com/user/spotify_germany"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify_germany",
+        "id": "spotify_germany",
+        "type": "user",
+        "uri": "spotify:user:spotify_germany"
+      },
+      "public": false,
+      "snapshot_id": "bPX3wBmSUlOIhAnQIfyJ3bQ34fNEF+XUfRTza10IFxlDKjzS8Rp4JFDQf50v4LP7",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/spotify_germany/playlists/5ITrhZ4YWfM5WQ0okrQE3w/tracks",
+        "total": 65
+      },
+      "type": "playlist",
+      "uri": "spotify:user:spotify_germany:playlist:5ITrhZ4YWfM5WQ0okrQE3w"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "http://open.spotify.com/user/r_liljeros/playlist/7FWNNvld0nONCZTR6RpMxd"
+      },
+      "href": "https://api.spotify.com/v1/users/r_liljeros/playlists/7FWNNvld0nONCZTR6RpMxd",
+      "id": "7FWNNvld0nONCZTR6RpMxd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/e7c5576cc6caf9d86bcf0af1160ce3ead65a71a8b052d3ed97789294db0ba33b10e635f606985be8686c8a09808ded39eb0c0172309afa5038af0dd4add37d0078dd8aef11a9560bf15e090789c519a4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/e7c5576cc6caf9d86bcf0af1160ce3ead65a71a8b052d3ed97789294db0ba33b10e635f606985be8686c8a09808ded39eb0c0172309afa5038af0dd4add37d0078dd8aef11a9560bf15e090789c519a4",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/e7c5576cc6caf9d86bcf0af1160ce3ead65a71a8b052d3ed97789294db0ba33b10e635f606985be8686c8a09808ded39eb0c0172309afa5038af0dd4add37d0078dd8aef11a9560bf15e090789c519a4",
+          "width": 60
+        }
+      ],
+      "name": "Ibiza Chillout | Deep House | Lounge | Minimal | Music",
+      "owner": {
+        "external_urls": {
+          "spotify": "http://open.spotify.com/user/r_liljeros"
+        },
+        "href": "https://api.spotify.com/v1/users/r_liljeros",
+        "id": "r_liljeros",
+        "type": "user",
+        "uri": "spotify:user:r_liljeros"
+      },
+      "public": false,
+      "snapshot_id": "te4WJ08rLTdCrAyad0qp97C+2ElXz/nhZxvAzIBKZJbY3IPbzZkpDNKjiMRlgfvB",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/r_liljeros/playlists/7FWNNvld0nONCZTR6RpMxd/tracks",
+        "total": 89
+      },
+      "type": "playlist",
+      "uri": "spotify:user:r_liljeros:playlist:7FWNNvld0nONCZTR6RpMxd"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "http://open.spotify.com/user/dankeybiz/playlist/5vSSK6kVyK7wPL2VG3wqmC"
+      },
+      "href": "https://api.spotify.com/v1/users/dankeybiz/playlists/5vSSK6kVyK7wPL2VG3wqmC",
+      "id": "5vSSK6kVyK7wPL2VG3wqmC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/3a049b7edb4769871c5c04def7c6fcbc52cac3f2",
+          "width": 640
+        }
+      ],
+      "name": "lyapis",
+      "owner": {
+        "external_urls": {
+          "spotify": "http://open.spotify.com/user/dankeybiz"
+        },
+        "href": "https://api.spotify.com/v1/users/dankeybiz",
+        "id": "dankeybiz",
+        "type": "user",
+        "uri": "spotify:user:dankeybiz"
+      },
+      "public": true,
+      "snapshot_id": "XyimDT4ZYvW+H5cwY4Ts3r3wZxC/LkJUlDxf6akWJf170f1fhReFf4kY/woHPpKD",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/dankeybiz/playlists/5vSSK6kVyK7wPL2VG3wqmC/tracks",
+        "total": 6
+      },
+      "type": "playlist",
+      "uri": "spotify:user:dankeybiz:playlist:5vSSK6kVyK7wPL2VG3wqmC"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "http://open.spotify.com/user/dankeybiz/playlist/3EuIxFljkCnQ3bQuhyVZnt"
+      },
+      "href": "https://api.spotify.com/v1/users/dankeybiz/playlists/3EuIxFljkCnQ3bQuhyVZnt",
+      "id": "3EuIxFljkCnQ3bQuhyVZnt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/75d98dad7bfe75795b936a6bfc4b394270a3a46d",
+          "width": 640
+        }
+      ],
+      "name": "noize",
+      "owner": {
+        "external_urls": {
+          "spotify": "http://open.spotify.com/user/dankeybiz"
+        },
+        "href": "https://api.spotify.com/v1/users/dankeybiz",
+        "id": "dankeybiz",
+        "type": "user",
+        "uri": "spotify:user:dankeybiz"
+      },
+      "public": true,
+      "snapshot_id": "yzWjhSiQkb4s575LmasAl2cdYo1cjOqKVcSlUaISdBSzzdfdEmcaM8boqe3BT+P8",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/dankeybiz/playlists/3EuIxFljkCnQ3bQuhyVZnt/tracks",
+        "total": 3
+      },
+      "type": "playlist",
+      "uri": "spotify:user:dankeybiz:playlist:3EuIxFljkCnQ3bQuhyVZnt"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "http://open.spotify.com/user/electr0nic_dealer/playlist/7FxVaG5cFRWumXF39KlOfe"
+      },
+      "href": "https://api.spotify.com/v1/users/electr0nic_dealer/playlists/7FxVaG5cFRWumXF39KlOfe",
+      "id": "minimal",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/f9a609d45d94a7f4db27c3555c875c2ce5ea93f5211c57e5dfe4158dad588a6e6f2446ee73a5928aebad44d5e3c3ff910bd31ffb161a390817056282a0e188b110c72cc95990e42f23558fea3e43173e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/f9a609d45d94a7f4db27c3555c875c2ce5ea93f5211c57e5dfe4158dad588a6e6f2446ee73a5928aebad44d5e3c3ff910bd31ffb161a390817056282a0e188b110c72cc95990e42f23558fea3e43173e",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/f9a609d45d94a7f4db27c3555c875c2ce5ea93f5211c57e5dfe4158dad588a6e6f2446ee73a5928aebad44d5e3c3ff910bd31ffb161a390817056282a0e188b110c72cc95990e42f23558fea3e43173e",
+          "width": 60
+        }
+      ],
+      "name": "Minimal",
+      "owner": {
+        "external_urls": {
+          "spotify": "http://open.spotify.com/user/electr0nic_dealer"
+        },
+        "href": "https://api.spotify.com/v1/users/electr0nic_dealer",
+        "id": "electr0nic_dealer",
+        "type": "user",
+        "uri": "spotify:user:electr0nic_dealer"
+      },
+      "public": true,
+      "snapshot_id": "7C3/VteoaG7d1PmY4D3gyxYTsvAuhXmb5QIvjtpMVt79xwWdEAHTuH5DuwPfZnxw",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/electr0nic_dealer/playlists/7FxVaG5cFRWumXF39KlOfe/tracks",
+        "total": 106
+      },
+      "type": "playlist",
+      "uri": "spotify:user:electr0nic_dealer:playlist:minimal"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "http://open.spotify.com/user/dankeybiz/playlist/1Sdp0IRCzksgdSVVSyXk7E"
+      },
+      "href": "https://api.spotify.com/v1/users/dankeybiz/playlists/1Sdp0IRCzksgdSVVSyXk7E",
+      "id": "1Sdp0IRCzksgdSVVSyXk7E",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ebad44d5e3c3ff910bd31ffb161a390817056282f9a609d45d94a7f4db27c3555c875c2ce5ea93f5a0e188b110c72cc95990e42f23558fea3e43173eea75c8308f7ba70673304c032861968c49a11cad",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ebad44d5e3c3ff910bd31ffb161a390817056282f9a609d45d94a7f4db27c3555c875c2ce5ea93f5a0e188b110c72cc95990e42f23558fea3e43173eea75c8308f7ba70673304c032861968c49a11cad",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ebad44d5e3c3ff910bd31ffb161a390817056282f9a609d45d94a7f4db27c3555c875c2ce5ea93f5a0e188b110c72cc95990e42f23558fea3e43173eea75c8308f7ba70673304c032861968c49a11cad",
+          "width": 60
+        }
+      ],
+      "name": "sukablya",
+      "owner": {
+        "external_urls": {
+          "spotify": "http://open.spotify.com/user/dankeybiz"
+        },
+        "href": "https://api.spotify.com/v1/users/dankeybiz",
+        "id": "dankeybiz",
+        "type": "user",
+        "uri": "spotify:user:dankeybiz"
+      },
+      "public": true,
+      "snapshot_id": "I+f1G5l/G4lA/PBh4ns+3G0Oe1X1wVu3CHYE+RdMLUHw+KEny+UnvAubx2hgXv1i",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/dankeybiz/playlists/1Sdp0IRCzksgdSVVSyXk7E/tracks",
+        "total": 7
+      },
+      "type": "playlist",
+      "uri": "spotify:user:dankeybiz:playlist:1Sdp0IRCzksgdSVVSyXk7E"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "http://open.spotify.com/user/dankeybiz/playlist/48epeqYhgHOys6bP1MWWcn"
+      },
+      "href": "https://api.spotify.com/v1/users/dankeybiz/playlists/48epeqYhgHOys6bP1MWWcn",
+      "id": "48epeqYhgHOys6bP1MWWcn",
+      "images": [],
+      "name": "плейлист первый!",
+      "owner": {
+        "external_urls": {
+          "spotify": "http://open.spotify.com/user/dankeybiz"
+        },
+        "href": "https://api.spotify.com/v1/users/dankeybiz",
+        "id": "dankeybiz",
+        "type": "user",
+        "uri": "spotify:user:dankeybiz"
+      },
+      "public": true,
+      "snapshot_id": "z6HKA1IMUbeNTnr1x7SKtbofxw2t1red9lfXZ5ho4XNfevSd94JJoRZz/aYsujfd",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/dankeybiz/playlists/48epeqYhgHOys6bP1MWWcn/tracks",
+        "total": 0
+      },
+      "type": "playlist",
+      "uri": "spotify:user:dankeybiz:playlist:48epeqYhgHOys6bP1MWWcn"
+    }
+  ],
+  "limit": 20,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 14
+}
